@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/tzvan/Desktop/SmartJob_ SearchAgent/**)",
+      "Read(//c/Users/tzvan/Desktop/Freelance_Task_Hunter/**)"
+    ]
+  }
+}
