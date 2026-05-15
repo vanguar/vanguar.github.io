@@ -278,6 +278,12 @@ section { padding: 5rem 0; }
   line-height: 1.6;
 }
 
+.card-links {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
 .card-demo {
   display: inline-block;
   font-size: 0.8rem;
